@@ -2,14 +2,17 @@
 
 1. Feed View
 
-![Screenshot 2023-10-24 at 01 04 59](https://github.com/enesgumus/SocialApp/assets/80697341/4e2f262d-75db-4326-990d-2117cd2c900e)
+![1-Vew](https://github.com/enesgumus/SocialApp/assets/80697341/eb9016b0-edb8-4b53-8693-3867acf7473c)
+
 
 2. Upload View
 
-![Screenshot 2023-10-24 at 01 05 06](https://github.com/enesgumus/SocialApp/assets/80697341/f5c03ef1-3365-4602-aa3c-583ae732493b)
+![2-View](https://github.com/enesgumus/SocialApp/assets/80697341/ec31f910-1ba3-42da-9749-a4d006b6f4ee)
+
 
 3. Sign Out View
+   
+![3-View](https://github.com/enesgumus/SocialApp/assets/80697341/b822bf13-eb2d-4a33-8c29-5822f9c1c3c5)
 
-![Screenshot 2023-10-24 at 01 05 17](https://github.com/enesgumus/SocialApp/assets/80697341/db84b352-b2f3-40a8-ad51-55b59ba9b737)
 
 
